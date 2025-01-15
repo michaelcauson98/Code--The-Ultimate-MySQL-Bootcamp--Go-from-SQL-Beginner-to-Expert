@@ -17,3 +17,6 @@ String functions (e.g. CONCAT, SUBSTR, REVERESE, REPLACE, UPPER/LOWER, CHAR_LENG
 
 # Workshop 8
 Refining selections (ORDER BY, LIKE, LIMIT).
+
+# Workshop 9
+Aggregate functions (GROUP BY, MIN/MAX, AVG, COUNT, SUM).
