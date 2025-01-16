@@ -4,10 +4,10 @@
 Basics and getting started (omitted).
 
 # Workshop 4
-Creating tables and inserting data entries.
+Creating tables and inserting data entries (CREATE, INSERT INTO VALUES).
 
 # Workshop 5
-Deleting and updating tables.
+Deleting and updating tables (DELETE, UPDATE SET).
 
 # Workshop 6
 CRUD challenge (C - CREATE, R - read (SELECT), U - UPDATE, D - DELETE).
@@ -20,3 +20,6 @@ Refining selections (ORDER BY, LIKE, LIMIT).
 
 # Workshop 9
 Aggregate functions (GROUP BY, MIN/MAX, AVG, COUNT, SUM).
+
+# Workshop 10
+Revisiting data types (CHAR/VARCHAR, INT/TINYINT/BIGINT, DECIMAL, FLOAT/DOUBLE, DATE/TIME, CURDATE/CURTIME/NOW, TIMESTAMPS, Date/Time functions).
