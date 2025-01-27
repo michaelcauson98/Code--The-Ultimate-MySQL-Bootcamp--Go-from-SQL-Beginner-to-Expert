@@ -23,3 +23,7 @@ Aggregate functions (GROUP BY, MIN/MAX, AVG, COUNT, SUM).
 
 # Workshop 10
 Revisiting data types (CHAR/VARCHAR, INT/TINYINT/BIGINT, DECIMAL, FLOAT/DOUBLE, DATE/TIME, CURDATE/CURTIME/NOW, TIMESTAMPS, Date/Time functions).
+
+# Workshop 11
+Comparison and logical operators (Not equal, NOT LIKE, Greater than, Less than or equal to, Logical AND, Logical OR, BETWEEN, Comparing dates, IN operator, CASE, IS NULL)
+
