@@ -27,3 +27,6 @@ Revisiting data types (CHAR/VARCHAR, INT/TINYINT/BIGINT, DECIMAL, FLOAT/DOUBLE, 
 # Workshop 11
 Comparison and logical operators (Not equal, NOT LIKE, Greater than, Less than or equal to, Logical AND, Logical OR, BETWEEN, Comparing dates, IN operator, CASE, IS NULL)
 
+# Workshop 12
+Constraints and ALTER TABLE (UNIQUE, CHECK, CONSTRAINT, Multiple constraints, ALTER, ADD COLUMN, DROP COLUMN, RENAME, MODIFY)
+
