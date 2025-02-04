@@ -30,3 +30,6 @@ Comparison and logical operators (Not equal, NOT LIKE, Greater than, Less than o
 # Workshop 12
 Constraints and ALTER TABLE (UNIQUE, CHECK, CONSTRAINT, Multiple constraints, ALTER, ADD COLUMN, DROP COLUMN, RENAME, MODIFY)
 
+# Workshop 13
+One to many and joins (FOREIGN KEY, INNER JOIN, LEFT JOIN, RIGHT JOIN, ON DELETE CASCADE)
+ 
