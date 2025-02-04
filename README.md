@@ -25,11 +25,13 @@ Aggregate functions (GROUP BY, MIN/MAX, AVG, COUNT, SUM).
 Revisiting data types (CHAR/VARCHAR, INT/TINYINT/BIGINT, DECIMAL, FLOAT/DOUBLE, DATE/TIME, CURDATE/CURTIME/NOW, TIMESTAMPS, Date/Time functions).
 
 # Workshop 11
-Comparison and logical operators (Not equal, NOT LIKE, Greater than, Less than or equal to, Logical AND, Logical OR, BETWEEN, Comparing dates, IN operator, CASE, IS NULL)
+Comparison and logical operators (Not equal, NOT LIKE, Greater than, Less than or equal to, Logical AND, Logical OR, BETWEEN, Comparing dates, IN operator, CASE, IS NULL).
 
 # Workshop 12
-Constraints and ALTER TABLE (UNIQUE, CHECK, CONSTRAINT, Multiple constraints, ALTER, ADD COLUMN, DROP COLUMN, RENAME, MODIFY)
+Constraints and ALTER TABLE (UNIQUE, CHECK, CONSTRAINT, Multiple constraints, ALTER, ADD COLUMN, DROP COLUMN, RENAME, MODIFY).
 
 # Workshop 13
-One to many and joins (FOREIGN KEY, INNER JOIN, LEFT JOIN, RIGHT JOIN, ON DELETE CASCADE)
- 
+One to many and joins (FOREIGN KEY, INNER JOIN, LEFT JOIN, RIGHT JOIN, ON DELETE CASCADE).
+
+# Workshop 14
+Many to many challenges.
