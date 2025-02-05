@@ -31,7 +31,10 @@ Comparison and logical operators (Not equal, NOT LIKE, Greater than, Less than o
 Constraints and ALTER TABLE (UNIQUE, CHECK, CONSTRAINT, Multiple constraints, ALTER, ADD COLUMN, DROP COLUMN, RENAME, MODIFY).
 
 # Workshop 13
-One to many and joins (FOREIGN KEY, INNER JOIN, LEFT JOIN, RIGHT JOIN, ON DELETE CASCADE).
+One-to-many and joins (FOREIGN KEY, INNER JOIN, LEFT JOIN, RIGHT JOIN, ON DELETE CASCADE).
 
 # Workshop 14
-Many to many challenges.
+Many-to-many challenges.
+
+# Workshop 15
+Views, modes and more (CREATE OR REPLACE VIEW, ALTER VIEW, DROP VIEW, HAVING, WITH ROLLUP, SQL Modes, STRICT_TRANS_TABLES).
