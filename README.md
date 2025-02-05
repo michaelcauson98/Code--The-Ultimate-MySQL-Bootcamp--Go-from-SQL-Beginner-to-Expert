@@ -38,3 +38,6 @@ Many-to-many challenges.
 
 # Workshop 15
 Views, modes and more (CREATE OR REPLACE VIEW, ALTER VIEW, DROP VIEW, HAVING, WITH ROLLUP, SQL Modes, STRICT_TRANS_TABLES).
+
+# Workshop 16
+Window functions (OVER, PARTITION BY, ORDER BY, RANK, NTILE, FIRST_VALUE, LEAD, LAG).
