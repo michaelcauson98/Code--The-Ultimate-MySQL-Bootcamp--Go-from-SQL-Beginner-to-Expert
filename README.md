@@ -47,3 +47,6 @@ Create an Instagram data base clone, creating tables for users, photos, comments
 
 # Workshop 18
 Query Instagram data base to answer useful questions.
+
+# Workshop 19
+Database triggers 
