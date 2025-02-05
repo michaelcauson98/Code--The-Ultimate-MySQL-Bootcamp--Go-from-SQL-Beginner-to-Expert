@@ -43,4 +43,7 @@ Views, modes and more (CREATE OR REPLACE VIEW, ALTER VIEW, DROP VIEW, HAVING, WI
 Window functions (OVER, PARTITION BY, ORDER BY, RANK, NTILE, FIRST_VALUE, LEAD, LAG).
 
 # Workshop 17
-Create an Instagram data base clone, creating tables for users, photos, comments, likes, follows, hashtags. 
+Create an Instagram data base clone, creating tables for users, photos, comments, likes, follows, hashtags.
+
+# Workshop 18
+Query Instagram data base to answer useful questions.
